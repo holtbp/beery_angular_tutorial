@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined.  If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+guinness:
+  name: Guinness
+
+anheuser_busch:
+  name: Anheuser-Busch
+
+cerveceria_modelo:
+  name: Cervecería Modelo
+
+iron_horse:
+  name: Iron Horse Brewery
+
+deschutes:
+  name: Deschutes Brewery
+
+hales_ales:
+  name: Hale's Ales
+
+heineken:
+  name: Heineken Brewing
+
+fremont_brewing:
+  name: Fremont Brewing Co.
+
+cascade_brewery:
+  name: Cascade Brewery
+
+mac_and_jacks_brewery:
+  name: Mac and Jack's Brewery

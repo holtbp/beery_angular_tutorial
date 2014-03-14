@@ -1,0 +1,72 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined.  If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+
+guinness:
+  name: Guinness
+  country: ireland
+  style: stout
+  brewer: guinness
+
+mongoose_ipa:
+  name: Mongoose IPA
+  style: ipa
+  brewer: hales_ales
+  country: usa
+
+heineken:
+  name: Heineken
+  style: lager
+  brewer: heineken
+  country: netherlands
+
+corona:
+  name: Corona
+  style: lager
+  brewer: cerveceria_modelo
+  country: mexico
+
+irish_death:
+  name: Irish Death
+  style: ale
+  brewer: iron_horse
+  country: usa
+
+black_butte:
+  name: Black Butte
+  style: porter
+  brewer: deschutes
+  country: usa
+
+pacifico:
+  name: Pacífico
+  style: pilsner
+  brewer: cerveceria_modelo
+  country: mexico
+
+universale_pale:
+  name: Universale Pale
+  style: pale_ale
+  brewer: fremont_brewing
+  country: usa
+
+obsidian_stout:
+  name: Obsidian Stout
+  style: stout
+  brewer: deschutes
+  country: usa
+
+vlad_the_impaler:
+  name: Vlad the Imp Aler
+  style: american_wild_ale
+  brewer: cascade_brewery
+  country: usa
+
+amber_ale:
+  name: African Amber
+  style: american_amber_red_ale
+  brewer: mac_and_jacks_brewery
+  country: usa

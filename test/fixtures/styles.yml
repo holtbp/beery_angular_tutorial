@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined.  If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+stout:
+  name: Stout
+
+ipa:
+  name: IPA
+
+lager:
+  name: Lager
+
+heineken:
+  name: Heineken International
+
+hales_ales:
+  name: Hale's Ales
+
+lager:
+  name: Lager
+
+ale:
+  name: Ale
+
+porter:
+  name: Porter
+
+pilsner:
+  name: Pilsner
+
+pale_ale:
+  name: Pale ale
+
+american_wild_ale:
+  name: American Wild Ale
+
+american_amber_red_ale:
+  name: American Amber/Red Ale
